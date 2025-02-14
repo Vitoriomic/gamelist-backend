@@ -43,8 +43,7 @@ git clone https://github.com/Vitoriomic/gamelist-backend.git
 # executar o projeto
 ./mvnw spring-boot:run
 ```
-
-# Front-End
+## Front-End
 
 A parte front-end desse projeto se encontra em outro repositório [GameList-FrontEnd](https://github.com/Vitoriomic/gamelist-frontweb)
 
