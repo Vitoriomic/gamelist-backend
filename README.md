@@ -1,4 +1,4 @@
-# Game List Survey 
+# Game List
 [![NPM](https://img.shields.io/github/license/vitoriomic/gamelist-backend)](https://github.com/Vitoriomic/gamelist-backend/blob/main/LICENSE) 
 
 # Sobre o projeto
@@ -43,6 +43,11 @@ git clone https://github.com/Vitoriomic/gamelist-backend.git
 # executar o projeto
 ./mvnw spring-boot:run
 ```
+
+# Front-End
+
+A parte front-end desse projeto se encontra em outro repositório [GameList-FrontEnd](https://github.com/Vitoriomic/gamelist-frontweb)
+
   
 # Autor
 
